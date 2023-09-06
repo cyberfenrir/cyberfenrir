@@ -2,9 +2,13 @@
 <h1 align="center">Hi 👋, I'm Aayush Kumar</h1>
 <h3 align="center">A passionate fullstack developer from India</h3>
 <img align="right"alt="Coding"width="400"src="https://i.pinimg.com/originals/0b/8f/72/0b8f72501d1f843a1ddf67784a6e26f9.gif">
-- 📫 How to reach me **kumaraayush04@gmail.com**
 
-- ⚡ Fun fact **I sometimes surprise even myself**
+
+- 💻 Intrested in fullstack web and Mobile Development
+- 🌐 Currently working with ReactJs, NEXTjs and Flutter along with Dot Net Core, Django and Node.
+- 👯 I’m looking to collaborate on a project with anyone
+- 📫 Got Work for me? Let's Connect!  **kumaraayush04@gmail.com** || https://kumaraayush.com/ || https://www.linkedin.com/in/aayush-kumar-630ab11a7/
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
