@@ -8,9 +8,9 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://www.linkedin.com/in/aayush-kumar-630ab11a7/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="aayush kumar" height="30" width="40" /></a><a href="https://www.instagram.com/kumar_aayush_04/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="kumar_aayush_04" height="30" width="40" /></a><a href="https://leetcode.com/Fenrir101/" target="blank"><img align="center" src="https://leetcode.com/static/images/LeetCode_logo_rvs.png" alt="Fenrir101" height="30" width="40" /></a>
-</p><a href="https://medium.com/@kumar.aayush04" target="blank"><img align="center" src="https://miro.medium.com/v2/resize:fit:1400/1*psYl0y9DUzZWtHzFJLIvTw.png" alt="Fenrir101" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/aayush-kumar-630ab11a7/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="aayush kumar" height="30" width="40" /></a><a href="https://www.instagram.com/kumar_aayush_04/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="kumar_aayush_04" height="30" width="40" /></a><a href="https://leetcode.com/Fenrir101/" target="blank"><img align="center" src="https://leetcode.com/static/images/LeetCode_logo_rvs.png" alt="Fenrir101" height="30" width="40" /></a><a href="https://medium.com/@kumar.aayush04" target="blank"><img align="center" src="https://miro.medium.com/v2/resize:fit:1400/1*psYl0y9DUzZWtHzFJLIvTw.png" alt="Fenrir101" height="30" width="40" /></a>
 </p>
+
 
 <h3 align="left">Languages, Frameworks and Tools:</h3>
 <p align="left"> 
